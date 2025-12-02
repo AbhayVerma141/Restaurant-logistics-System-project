@@ -111,7 +111,6 @@ int main()
 
         case 6:
             printf("---Sweet Dish Menu---\n");
-            if()
             for(int i = 0; i < 6; i++)
             {
                 printf("%d || %s || full = Rs%d || half = Rs%d\n", sweetdish[i].no, sweetdish[i].name, sweetdish[i].price_full, sweetdish[i].price_half);
@@ -282,3 +281,4 @@ int main()
 }
 //i took help of google and a bit of chatgpt to do this code
 //sap id = 590022445 batch- 33 name - abhay verma
+
